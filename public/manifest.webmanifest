@@ -2,7 +2,7 @@
   "name": "Lotto Number Generator",
   "short_name": "LottoGen",
   "description": "Generate lottery numbers",
-  "start_url": "/",
+  "start_url": "/million-sets/", 
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
