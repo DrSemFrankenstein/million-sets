@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
-  base: '/million-sets/',  // Replace <REPO_NAME> with your actual repository name
+  base: '/million-sets/',  // Correct base path for GitHub Pages
   plugins: [
     react(),
     VitePWA({
